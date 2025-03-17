@@ -1,5 +1,5 @@
 1167741 
 1226318 
-# Inventario 
+# Processori 
 - processore 1 
 - processore 2 
