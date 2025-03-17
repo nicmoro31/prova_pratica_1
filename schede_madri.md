@@ -1,0 +1,5 @@
+1167741
+1226318
+# Schede madri
+- Asus B550-F
+- MSI B760 TOMAHAWK
