@@ -1,2 +1,5 @@
 1167741 
-1226318 
+1226318
+# Inventario
+- Asus B550-F
+- MSI B760 TOMAHAWK 
