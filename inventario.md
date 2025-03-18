@@ -5,3 +5,4 @@
 - processore 2 
 - Asus B550-F
 - MSI B760 TOMAHAWK
+- Elettronica Padovana
