@@ -8,3 +8,5 @@
 - MSI B760 TOMAHAWK
 - Elettronica Padovana
 ## Periferiche
+- Logitech MX Keys
+- Corsair K70
