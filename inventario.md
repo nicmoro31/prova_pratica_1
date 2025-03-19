@@ -7,3 +7,4 @@
 - Asus B550-F
 - MSI B760 TOMAHAWK
 - Elettronica Padovana
+## Periferiche
