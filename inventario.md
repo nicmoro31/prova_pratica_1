@@ -10,3 +10,5 @@
 ## Periferiche
 - Logitech MX Keys
 - Corsair K70
+- mouse 1
+- mouse 2
